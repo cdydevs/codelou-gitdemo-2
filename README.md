@@ -1,7 +1,5 @@
 Hello world!
 
-this is a change
-
-this is another change
+changing this line
 
 how about one more change
